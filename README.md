@@ -1,4 +1,4 @@
-# GitHub Project Description: International Student Support Application Using GPT API
+# Genie Tutor
 
 This Python project, developed for the TreeHacks 2023 hackathon at Stanford, leverages the GPT API to create an innovative application aimed at assisting international students in navigating their high school experience. The application seamlessly integrates natural language processing to provide valuable information and support to students.
 
